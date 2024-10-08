@@ -1,4 +1,4 @@
-#**Living The Social Life - Minimalist Blog Template**
+**###Living The Social Life - Minimalist Blog Template**
 
 A responsive blog template focused on minimalism, featuring clean design, intuitive navigation, and sections for articles on simple living. Built using HTML5 and CSS3 with responsive layout optimized for all devices.
 For your GitHub repository description, you could use the following:
